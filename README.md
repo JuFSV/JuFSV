@@ -12,7 +12,7 @@
 ### 📫 Entre em contato comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jufsv/)](https://www.linkedin.com/in/jufsv/)
-[![Gmail Badge](https://img.shields.io/badge/-EMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianafsv@gmail.com)](mailto:julianafsv@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-EMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julian.fsvital@gmail.com)](mailto:julian.fsvital@gmail.com)
 
 
 ### 📊 GitHub Analytics:
