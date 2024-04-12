@@ -5,9 +5,9 @@
 </h1>
 
 ### Um pouco sobre mim:
-- 👦 Sou brasileiro, do Rio de Janeiro, e atuei como Fisioterapeuta por 6 anos.
-- 🚀 Estou em transição de carreira para tecnologia, e cursando Análise e Desenvolvimento de Sistemas.
-- ❤️ Fun Fact: curto universo nerd/geek, boardgames, roedores, heavy metal, viagens, gastronomia e nas horas vagas me arrisco como barista e sommelier de cervejas e vinhos.
+- 👦 Sou brasileiro, do Rio de Janeiro, e atuo como Fisioterapeuta.
+- 🚀 Em transição de carreira, cursando Análise e Desenvolvimento de Sistemas, me especializando em Data Engineering.
+- ❤️ Fun Fact: curto universo nerd/geek, corrida, boardgames, roedores, heavy metal, viagens, gastronomia e nas horas vagas me arrisco como barista e sommelier de cervejas/vinhos.
 
 ### 📫 Entre em contato comigo:
 
