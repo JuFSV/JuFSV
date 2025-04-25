@@ -1,16 +1,16 @@
 ﻿<img src="https://github.com/JuFSV/JuFSV/blob/main/octocat.png" max-width="400px" width="400px" align="right"/>
 
 <h1 align="center">
-  ✅ Olá, sejam bem-vindes 👋
+  ✅ Oi 👋
 </h1>
 
 ### Um pouco sobre mim:
-- 👦 Sou brasileiro, do Rio de Janeiro, pai de pet, tricolor e neuroatípico.
-- 🎲 Atuo como Analista de Dados, me especializando em Data Engineering.
-- 💼 Também sou formado em fisioterapia, quiropraxia e gastronomia.
-- ❤️ Fun Fact: curto universo nerd/geek, boardgames, roedores, heavy metal, viagens, corrida, e nas horas vagas me arrisco como barista e sommelier de cervejas/vinhos.
+- 👦 Carioca, pai de pet, tricolor e neuroatípico.
+- 🎲 Analista de Dados, me especializando em Data Engineering.
+- 💼 Formado também em fisioterapia, quiropraxia e gastronomia.
+- ❤️ Fun Fact: curto universo nerd/geek, boardgames, roedores, heavy metal, corrida, e nas horas vagas me arrisco como barista e sommelier de cervejas/vinhos.
 
-### 📫 Entre em contato comigo:
+### 📫 Entre em contato:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jufsv/)](https://www.linkedin.com/in/jufsv/)
 [![Gmail Badge](https://img.shields.io/badge/-EMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julian.fsvital@gmail.com)](mailto:julian.fsvital@gmail.com)
